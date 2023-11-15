@@ -1,7 +1,7 @@
 {
   "name": "react-barcode-scanner-updated",
   "version": "1.0.0",
-  "description": "A simple React Component using the client's webcam to read barcodes and QR codes. UPDATED",
+  "description": "A simple React Component using the client's webcam to read barcodes and QR codes. UPDATED to new dependencies.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "author": "Original author: Jamena McInteer (https://jamena.dev). Updated by: Dominik Myszkowski",
